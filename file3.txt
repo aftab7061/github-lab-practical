@@ -1,0 +1,2 @@
+GitHub is a web-based platform for version control and collaboration that allows multiple people to 
+work on the same project using features such as repositories, branching, pull requests, issues, and discussions. 
