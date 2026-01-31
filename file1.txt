@@ -1,0 +1,2 @@
+GitHub is a cloud-based platform and Git repository hosting service for software development, allowing individuals and teams to store, manage, and collaborate on code. 
+Owned by Microsoft, it offers version control features, bug tracking, task management, and continuous integration, supporting over 100 million developers worldwide. 
